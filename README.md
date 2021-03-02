@@ -1,9 +1,8 @@
 ### Hi, I'm Andrija Jelenkovic 👋
 
-- 🔭 I’m currently working on ... E-commerce websites
-- 🌱 I’m currently learning ... PHP
-- 👯 I’m looking to collaborate on ... Javascript
-- 🤔 I’m looking for help with ... PHP, Vue.js
+- 🔭 I’m currently working on ... .Net Core Web Applications
+- 🌱 I’m currently learning ... .Net Core, Machine Learning
+- 👯 I’m looking to collaborate on ... Javascript, C#, PHP
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [jelenkovic.xyz](https://jelenkovic.xyz/)
 - ⚡ Fun fact: ... I play LoL and CSGO, you can add me: RIP EU Servers
