@@ -1,5 +1,9 @@
 ### Hi, I'm Andrija Jelenkovic 👋
 
+## I'm a Full Stack Web Developer
+- Software Engineer at Logeecom
+- Student at University of Belgrade, School of Electrical Engineering, Department of Signals and Systems
+
 - 🔭 I’m currently working on ... .Net Core Web Applications
 - 🌱 I’m currently learning ... .Net Core, Machine Learning
 - 👯 I’m looking to collaborate on ... Javascript, C#, PHP
