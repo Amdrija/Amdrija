@@ -12,6 +12,6 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amdrija&show_icons=true&hide_border=true&count_private=true"/>
 
-<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true"/>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true"/>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Amdrija)](https://github.com/Amdrija/github-contribution-stats/)
