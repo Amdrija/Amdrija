@@ -10,8 +10,8 @@
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 - ⚡ Fun fact: I play LoL and CSGO, you can add me: RIP EU Servers
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amdrija&show_icons=true&hide_border=true&count_private=true"/>
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true"/>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Amdrija)](https://github.com/Amdrija/github-contribution-stats/)
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amdrija&show_icons=true&hide_border=true&count_private=true"/>
+
