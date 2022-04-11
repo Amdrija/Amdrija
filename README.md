@@ -10,4 +10,4 @@
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 - ⚡ Fun fact: I play LoL and CSGO, you can add me: RIP EU Servers
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Amdrija)](https://github.com/Amdrija/github-contribution-stats/)
