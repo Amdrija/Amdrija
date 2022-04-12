@@ -1,7 +1,6 @@
 ### Hi, I'm Andrija Jelenkovic 👋
 
 ## I'm a Full Stack Web Developer
-- Co-Founder of Red!Tech
 - Student at University of Belgrade, School of Electrical Engineering, Department of Signals and Systems
 
 - 🔭 I’m currently working on .Net Core Web Applications
