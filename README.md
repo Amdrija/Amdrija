@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I play LoL and CSGO, you can add me: RIP EU Servers
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true"/>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true&&langs_count=8&layout=compact"/>
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amdrija&show_icons=true&hide_border=true&count_private=true"/>
 
