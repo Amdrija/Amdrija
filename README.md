@@ -4,7 +4,7 @@
 - Student at University of Belgrade, School of Electrical Engineering, Department of Signals and Systems
 
 - 🔭 I’m currently working on .NET Web Applications
-- 🌱 I’m currently learning .NET, Machine Learning
+- 🌱 I’m currently learning Machine Learning, Blockchain and functional programming
 - 👯 I’m looking to collaborate on Javascript, C#
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 
