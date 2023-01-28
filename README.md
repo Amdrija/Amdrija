@@ -1,10 +1,10 @@
 ### Hi, I'm Andrija Jelenkovic 👋
 
 - Full Stack Web Developer with excellent knowledge of .NET, HTML, CSS and JavaScript.
-- Student at University of Belgrade, School of Electrical Engineering, Department of Signals and Systems
+- Master student in Computer Science at EPFL.
 
-- 🔭 I’m currently working on .NET Web Applications
-- 🌱 I’m currently learning Svelte, Machine Learning, Blockchain and functional programming
+- 🔭 I’m currently working on .NET/Go Web Applications
+- 🌱 I’m currently learning Blockchain and functional programming
 - 👯 I’m looking to collaborate on Javascript, C#
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 
