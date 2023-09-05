@@ -1,11 +1,12 @@
 ### Hi, I'm Andrija Jelenkovic 👋
 
-- Full Stack Web Developer with excellent knowledge of .NET, HTML, CSS and JavaScript.
+- I'm a software engineer.
 - Master student in Computer Science at EPFL.
+- I was lucky to grow up with computers (mostly playing games) and, since I'm extremey curious, I started learning more and more about them. That's what got me here (and hate for school, but that's another topic lol).
 
-- 🔭 I’m currently working on .NET/Go Web Applications
-- 🌱 I’m currently learning Blockchain and functional programming
-- 👯 I’m looking to collaborate on Javascript, C#
+- 🔭 I’m currently working on .NET/Go Web Applications, memory safety of Rust -> C interop.
+- 🌱 I’m currently learning Disributed Systems (CS-451), Concurrent Algorithms (CS-453) and Principles of Computer Systems (CS-522) at EPFL.
+- 📚 Books I've read this year: [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html), [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/), [Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/), [Java in a Nutshell](https://learning.oreilly.com/library/view/java-in-a/9781098130992/), [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 
 
