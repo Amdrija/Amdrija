@@ -10,7 +10,7 @@
 - 📫 How to reach me: [jelenkovic.xyz](https://jelenkovic.xyz/)
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdrija&count_private=true&&langs_count=8&layout=compact"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdrija&layout=compact&langs_count=8)
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amdrija&show_icons=true&hide_border=true&count_private=true"/>
+[![Amdrija's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdrija)](https://github.com/anuraghazra/github-readme-stats)
 
